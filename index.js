@@ -15,7 +15,3 @@ function deepestChild(){
   return deep[deep.length-1]
   
 }
-
-}
-  }
-}
